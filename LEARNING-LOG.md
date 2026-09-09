@@ -5,10 +5,28 @@ biomedical and assistive robotics projects.
 
 ## Table of Contents
 
+[Session 3: Sensor Transduction](#session-3-sensor-transduction)<br>
 [Session 1: Sense-Decide-Act](#session-1-sense-decide-act) <br>
 [Session 2: Feedback](#session-2-feedback) <br>
 
 ---
+## Session 3: Sensor Transduction
+
+**Date:** September 9, 2026
+
+Transduction is the conversion of one physical form into another. A sensor
+converts a physical quantity, such as force, into a signal that represents the
+measurement and can be received by a controller.
+
+In a pressure-sensitive robotic fingertip, applied force might be represented
+by a changing voltage. The voltage is not the force itself; it carries
+information about the force.
+
+**Key takeaway:** Sensors connect an electronic controller to the physical world
+by converting measurable properties into usable signals.
+
+---
+
 ## Session 2: Feedback
 
 **Date:** September 2, 2026
@@ -24,6 +42,8 @@ it is pushed away from its desired direction.
 
 **Key takeaway:** Feedback allows a robot to check what actually happened
 instead of assuming that its command produced the intended result.
+
+---
 
 ## Session 1: Sense-Decide-Act
 
