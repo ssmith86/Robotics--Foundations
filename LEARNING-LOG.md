@@ -5,9 +5,26 @@ biomedical and assistive robotics projects.
 
 ## Table of Contents
 
-[Session 3: Sensor Transduction](#session-3-sensor-transduction)<br>
 [Session 1: Sense-Decide-Act](#session-1-sense-decide-act) <br>
 [Session 2: Feedback](#session-2-feedback) <br>
+[Session 3: Sensor Transduction](#session-3-sensor-transduction)<br>
+[Session 4: Analog and Digital Signals](#session-4-analog-and-digital-signals)<br>
+
+---
+## Session 4: Analog and Digital Signals
+
+**Date:** September 10, 2026
+
+An analog signal can vary continuously across a range, making it useful when a
+controller needs to know how much of a physical quantity is present. A simple
+digital signal represents distinct states, such as pressed or not pressed.
+
+A third thumb could use an analog foot-pressure signal to control how far it
+bends and a digital emergency button to command an immediate release.
+
+**Key takeaway:** The information a robot needs determines the appropriate
+signal type: analog signals represent amounts, while simple digital signals
+distinguish between separate states.
 
 ---
 ## Session 3: Sensor Transduction
