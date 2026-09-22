@@ -9,6 +9,26 @@ biomedical and assistive robotics projects.
 [Session 2: Feedback](#session-2-feedback) <br>
 [Session 3: Sensor Transduction](#session-3-sensor-transduction)<br>
 [Session 4: Analog and Digital Signals](#session-4-analog-and-digital-signals)<br>
+[Session 5: Analog-to-Digital Conversion](#session-5-analog-to-digital-conversion)<br>
+
+---## Session 5: Analog-to-Digital Conversion
+
+**Date:** September 22, 2026
+
+An analog-to-digital converter, or ADC, measures an analog voltage and
+represents it with a digital number. Sampling measures the signal at a
+particular moment, while quantization assigns that measurement to one of
+the ADC's available levels.
+
+In artificial skin, an ADC can convert a pressure sensor's analog voltage
+into a number the controller can use. Greater resolution provides more
+levels and preserves finer differences in pressure.
+
+**Key takeaway:** An ADC connects continuously changing sensor signals to
+a digital controller, but its resolution limits how much measurement
+detail is preserved.
+
+
 
 ---
 ## Session 4: Analog and Digital Signals
