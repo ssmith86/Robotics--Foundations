@@ -11,7 +11,8 @@ biomedical and assistive robotics projects.
 [Session 4: Analog and Digital Signals](#session-4-analog-and-digital-signals)<br>
 [Session 5: Analog-to-Digital Conversion](#session-5-analog-to-digital-conversion)<br>
 
----## Session 5: Analog-to-Digital Conversion
+---
+## Session 5: Analog-to-Digital Conversion
 
 **Date:** September 22, 2026
 
